@@ -1,0 +1,27 @@
+div {
+    font-family: Verdana;
+    text-align: center;    
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: blue;
+    font-weight: normal;
+    text-align: center;    
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 28px;
+    text-align: justify;
+}
